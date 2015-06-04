@@ -1,4 +1,4 @@
 # workshops
 
-e.g. [combined user training + facilitation training](http://hyper.mixmix.io/?source=https://github.com/mixmix/workshops/blob/master/README.md)
+e.g. [combined user training + facilitation training](https://github.com/mixmix/workshops/blob/master/HPA_workshop_2.md)
 

@@ -42,5 +42,5 @@ e.g.
 - **summary / reflection**
 - **resolution** : supporting empathy / un-packing
 - **progression** : making space for constructive disagreement, moving on
--
+- **managing conflict**
 

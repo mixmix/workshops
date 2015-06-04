@@ -1,5 +1,5 @@
 What is good facilitation?
-==========================
+--------------------------
 
 Facilitation - from latin *facilis* : to make easy (or maybe rather easier!)
 
@@ -16,14 +16,16 @@ Good facilitation is like...
 Where have you observed good facilitation. What was it like?
 
 1. Tone, feelings, vibe 
-  - e.g.
+- (discuss) 
+-  e.g.
   - *honest*
   - *safe*
   - *respectful*
   - *...*
 
 2. Actions, behavious 
-  - e.g.
+- (discuss) 
+- e.g.
   - *grond rules*
   - *we hear all voices*
   - *nameing patterns we observe*

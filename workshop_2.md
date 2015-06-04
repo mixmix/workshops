@@ -29,6 +29,7 @@ Part 1: Expert user training
 
 +[Expert User training content](https://github.com/mixmix/workshops/blob/master/expert_user_training.md)
 
+
 ---
 
 BREAK
@@ -40,16 +41,18 @@ Part 2: Facilitation in Loomio
 ==============================
 
 review VISION:
-    - ^ effectiveness and accountability
-    - pace w focus
-    - advisors: 
-      - empowered
-      - clarity in frame *roles/ process/ outcomes*
-      - learn through discussion 
+  - ^ effectiveness and accountability
+  - pace w focus
+  - advisors: 
+    - empowered
+    - clarity in frame *roles/ process/ outcomes*
+    - learn through discussion 
 
 +[Facilitation content](https://github.com/mixmix/workshops/blob/master/facilitation_training.md)
 
-For this process to go well you identified last time tht having a **communication/ engagement strategy** would be key.
+---
+
+For this process to go well you identified last time that having a **communication/ engagement strategy** would be key.
 I think this is really wise. In particular I would love to consider: 
 
 - who is going to facilitate / liase

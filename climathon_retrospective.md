@@ -1,4 +1,4 @@
-[![](https://github.com/mixmix/hypermarkdown/raw/master/hypermarkdown_badge.png)](https://hypermarkdown.herokuapp.com)
+[![](https://github.com/mixmix/hypermarkdown/raw/master/hypermarkdown_badge.png)](https://hyper.mixmix.io)
 
 **Purpose of today:** reflect on the Climathon process, with a mind to what a future iteration might look like. 
 

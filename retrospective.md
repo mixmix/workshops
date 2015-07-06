@@ -23,11 +23,29 @@ Checkin
 
 +[checkin exercise](https://github.com/mixmix/workshops/blob/master/retrospective/checkin_mood_curve.md)
 
+The key points on time-line: 
+
+- pre-event
+  - Silv contacts hosts
+  - 1 hour onboarding / prep meeting
+- Friday
+  - we arrive early, help set up 
+  - intro
+  - theme discussions 
+  - team formation
+- Saturday
+  - teams arrive
+  - teams resolve, start work
+  - 1pm presentations/ feedback
+  - 4pm test-runs 
+  - presentations
+  - pakup + drinks
 
 Surface reflections
 -------------------
 
-+[surfacting exercise](https://github.com/mixmix/workshops/blob/master/retrospective/surfacing_with_diagram.md)
++[surfacing exercise](https://github.com/mixmix/workshops/blob/master/retrospective/surfacing_with_diagram.md)
+
 ![example diagram for surfacing](https://github.com/mixmix/workshops/blob/master/retrospective/surfacing_example_drawing.jpg)
 
 Prioritize conversation
